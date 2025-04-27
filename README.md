@@ -117,7 +117,7 @@ Use responsibly. 🛡️
 ## ✨ Credits
 
 - Original `chrome_decrypt.dll` concept by **@xaitax**.
-- Injector C# port and improvements by **[your_name_here]**.
+- Injector C# port and improvements by **[MpCmdRun](https://github.com/MpCmdRun)**.
 
 ---
 
